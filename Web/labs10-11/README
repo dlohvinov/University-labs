@@ -1,0 +1,4 @@
+1. Install node.js and mongodb. Install npm, nodemon, express, mongoose, cors to project
+2. 'npm run dev' in project directory
+4. commands "mongod" and "npm run start" in proj dir to start the server
+5. localhost port: 3000

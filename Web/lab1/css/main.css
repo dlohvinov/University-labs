@@ -1,0 +1,82 @@
+body {
+    margin: 120px 10%;
+}
+h1, h3 {
+    text-transform: uppercase;
+}
+a {
+    color: #B22222;
+    text-decoration: none;
+    border: none;
+    border-bottom: 1px #B22222 dotted;
+}
+a:hover {
+    border-bottom: 1px #B22222 solid;
+}
+h1 {
+    text-align: center;
+    font-size: 42px;
+}
+body > a:nth-child(2) {
+    display: block;
+    width: fit-content;
+    margin: auto;
+}
+body img {
+    float: right;
+    padding: 0 30px 30px;
+}
+body img:nth-of-type(2n) {
+    float: left;
+}
+h2 {
+    font-size: 28px;
+    margin: 60px 0 30px;
+}
+p {
+    font-size: 20px;
+    margin: 30px 0;
+}
+body > code:nth-of-type(1) {
+    font-size: 24px;
+    display: block;
+    margin: 40px 0;
+}
+.separator {
+    text-align: center;
+    font-size: 36px;
+    margin: 60px 0;
+    text-shadow: rgba(0,0,0, 0.3) 3px 0 15px;
+}
+.centered {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.italic {
+    font-style: italic;
+}
+.wrap {
+    width: 95%;
+    margin: auto;
+    border: 1px #000 solid;
+    position: relative;
+}
+.wrap h3 {
+    width: 100%;
+    margin: 0;
+    padding: 10px 0;
+    background: #000;
+    color: #fff;
+}
+.wrap p {
+    width: 70%;
+    margin: 40px;
+}
+.wrap p:nth-of-type(2) {
+    margin-bottom: 60px;
+}
+.wrap img {
+    position: absolute; bottom: 0; right: 0;
+}
+

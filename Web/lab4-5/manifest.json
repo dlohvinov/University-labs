@@ -1,0 +1,16 @@
+{
+  "short_name": "Blazers",
+  "name": "Portland Trail Blazers",
+  "icons": [
+    {
+      "src": "img/ball.png",
+      "type" : "image/png",
+      "sizes" : "80x80"
+    }
+  ],
+  "scope": "/",
+  "start-url": "index.html",
+  "background-color": "#fafafa",
+  "display": "browser",
+  "theme-color": "#fafafa"
+}

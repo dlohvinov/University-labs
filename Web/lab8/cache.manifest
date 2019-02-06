@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+index.html
+error.html
+news.html
+css/main.css
+js/common.js
+js/localStorageInteraction.js
+js/news.js
+
+NETWORK:
+#download all unsaved files
+#*
+
+FALLBACK:
+/ /error.html

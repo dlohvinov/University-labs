@@ -1,0 +1,14 @@
+E:\IdeaProjects\Java_labs\lab3\src\main\java\ua\lviv\iot\lab3\persistence\dao\AbstractDao.java
+E:\IdeaProjects\Java_labs\lab3\src\main\java\ua\lviv\iot\lab3\model\DefenceEquipment.java
+E:\IdeaProjects\Java_labs\lab3\src\main\java\ua\lviv\iot\lab3\model\EngeneeringEquipment.java
+E:\IdeaProjects\Java_labs\lab3\src\main\java\ua\lviv\iot\lab3\EquipmentService.java
+E:\IdeaProjects\Java_labs\lab3\src\main\java\ua\lviv\iot\lab3\persistence\dao\EngeneeringEquipmentDaoImpl.java
+E:\IdeaProjects\Java_labs\lab3\src\main\java\ua\lviv\iot\lab3\rest\config\JaxRsConfig.java
+E:\IdeaProjects\Java_labs\lab3\src\main\java\ua\lviv\iot\lab3\model\enums\EquipmentType.java
+E:\IdeaProjects\Java_labs\lab3\src\main\java\ua\lviv\iot\lab3\EquipmentManager.java
+E:\IdeaProjects\Java_labs\lab3\src\main\java\ua\lviv\iot\lab3\persistence\dao\EngeneeringEquipmentDao.java
+E:\IdeaProjects\Java_labs\lab3\src\main\java\ua\lviv\iot\lab3\model\OffenceEquipment.java
+E:\IdeaProjects\Java_labs\lab3\src\main\java\ua\lviv\iot\lab3\model\Equipment.java
+E:\IdeaProjects\Java_labs\lab3\src\main\java\ua\lviv\iot\lab3\model\enums\WorkType.java
+E:\IdeaProjects\Java_labs\lab3\src\main\java\ua\lviv\iot\lab3\persistence\dao\IDao.java
+E:\IdeaProjects\Java_labs\lab3\src\main\java\ua\lviv\iot\lab3\EquipmentWriter.java

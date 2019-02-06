@@ -1,0 +1,14 @@
+ua\lviv\iot\lab3\model\EngeneeringEquipment.class
+ua\lviv\iot\lab3\model\OffenceEquipment.class
+ua\lviv\iot\lab3\model\enums\WorkType.class
+ua\lviv\iot\lab3\model\DefenceEquipment.class
+ua\lviv\iot\lab3\model\enums\EquipmentType.class
+ua\lviv\iot\lab3\EquipmentWriter.class
+ua\lviv\iot\lab3\EquipmentService.class
+ua\lviv\iot\lab3\persistence\dao\IDao.class
+ua\lviv\iot\lab3\persistence\dao\EngeneeringEquipmentDao.class
+ua\lviv\iot\lab3\persistence\dao\EngeneeringEquipmentDaoImpl.class
+ua\lviv\iot\lab3\persistence\dao\AbstractDao.class
+ua\lviv\iot\lab3\rest\config\JaxRsConfig.class
+ua\lviv\iot\lab3\EquipmentManager.class
+ua\lviv\iot\lab3\model\Equipment.class

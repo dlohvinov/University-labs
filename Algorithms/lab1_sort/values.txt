@@ -1,0 +1,5 @@
+great manufacturer,3,25,black
+awesome manufacturer,4,30,yellow
+sogood manufacturer,3,25,red
+extra_large_dogs manufacturer,10,80,grey
+common_name manufacturer,7,35,blue

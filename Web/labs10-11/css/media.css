@@ -1,0 +1,338 @@
+
+@media only screen and (max-width: 1200px) {
+
+    nav .menu > li,
+    nav .menu > li > a  {
+        width: 100px;
+    }
+
+    .history {
+        height: 740px;
+    }
+    .last-win {
+        padding-top: 80px;
+    }
+    footer .logo {
+        width: 120px;
+    }
+}
+
+
+
+@media only screen and (max-width: 992px) {
+    h2 {
+        font-size: 48px;
+        line-height: 1;
+    }
+    header .logo {
+        margin-top: 20px;
+        padding-bottom: 15px;
+        background: #000;
+    }
+    .menu {
+        position: absolute; top: 79px; left: 0; right: 0;
+        padding: 10px 0;
+        background: #000;
+        transform: translateY(0);
+        transition: 0.3s;
+        z-index: -1;
+    }
+    .menu.hidden {
+        transform: translateY(-100px);
+        opacity: 0;
+        pointer-events: none;
+    }
+    .menu-toggle {
+        position: absolute;
+        text-align: center;
+    }
+    header nav {
+        margin: 0;
+    }
+    nav .menu > li,
+    nav .menu > li > a  {
+        width: 140px;
+    }
+    nav .menu > li > a {
+        font-size: 24px;
+    }
+    nav .menu-matches {
+        width: 280px;
+    }
+    nav .menu-matches li a {
+        font-size: 20px;
+    }
+
+    .main h1 {
+        line-height: 1;
+    }
+
+    .bg {
+        height: 400px;
+    }
+    .bg:before {
+        height: 400px;
+    }
+    .news-main {
+        padding: 90px 0;
+    }
+    .news-main .item {
+        position: relative;
+    }
+    .news-main .item .pic {
+        width: 100%; height: 200px;
+        margin: auto;
+    }
+    .news-main .item .pic img {
+        object-fit: none;
+        object-position: top;
+    }
+    .news-main .item .txt {
+        width: 90%;
+        margin: 30px 0 0 20px;
+    }
+
+
+
+    .contacts-main .wrap button.btn {
+        width: 100%;
+    }
+    .admin-main form .txt textarea {
+        width: 100%;
+    }
+}
+
+
+
+@media only screen and (max-width: 768px) {
+
+    nav .menu > li {
+        display: block;
+        width: 100%;
+    }
+    nav .menu > li > a {
+        width: 100%;
+        font-size: 28px;
+        border-bottom: 2px solid #fff;
+        text-transform: uppercase;
+    }
+    nav .menu-matches {
+        text-align: center;
+        width: 100%;
+        position: absolute;
+        opacity: 0;
+        background: #fff;
+    }
+    nav .matches-toggle:before {
+        content: '';
+        display: block;
+        position: absolute; top: 22px; right: 10px;
+        width: 32px; height: 32px;
+        background: url("../img/arrow_right.png");
+        background-size: contain;
+        transition: 0.3s;
+    }
+    nav .matches-toggle.opened:before {
+        transform: rotate(90deg);
+    }
+    nav .matches-toggle.opened .menu-matches {
+        position: static;
+        opacity: 1;
+    }
+    nav .menu-matches li a {
+        font-size: 22px;
+        color: #000;
+        border-bottom: 2px #000 solid;
+    }
+    nav .menu li:last-child a {
+        border: none;
+    }
+    nav .menu > li:nth-of-type(2):hover .menu-matches {
+        opacity: 0;
+        pointer-events: none;
+    }
+    nav .menu > .matches-toggle.opened:hover .menu-matches {
+        opacity: 1;
+        pointer-events: auto;
+    }
+
+
+
+    .history {
+        height: auto;
+        padding: 220px 0 300px;
+    }
+    .history .pic-wrap {
+        position: absolute; top: -160px; right: auto; left: auto;
+        z-index: 0;
+    }
+    .history .pic-wrap img:nth-child(1) {
+        width: 100%;
+        height: auto;
+    }
+    .history .pic-wrap .parallax {
+        position: absolute; top: 250px; left: auto; right: 0;
+        width: 90%;
+    }
+    .history .wrap {
+        margin-top: 100px;
+        border: 3px solid #000;
+        background: rgba(255, 255, 255, 0.9);
+    }
+
+    .last-win {
+        height: auto;
+        padding: 220px 0 120px;
+    }
+    .last-win .pic-wrap {
+        text-align: right;
+        bottom: 170px;
+        z-index: 0;
+    }
+    .last-win .pic-wrap .parallax img {
+        width: 70%;
+        margin-right: 80px;
+    }
+    .last-win .pic-wrap img:nth-child(2) {
+        width: 70%;
+        right: 0;
+    }
+    .last-win .wrap {
+        position: relative;
+        border: 3px solid #000;
+        background: rgba(255, 255, 255, 0.9);
+        z-index: 1;
+    }
+
+
+    .bg {
+        height: 600px;
+    }
+    .bg:before {
+        height: 600px;
+    }
+    .news-main .item {
+        width: 100%;
+    }
+
+
+    .fans-main .wrap:before {
+       display: none;
+    }
+
+
+    .contacts-main .map {
+        height: 30vh;
+        margin-top: 30px;
+    }
+
+
+    .admin-main form .upload {
+        display: block;
+        margin: 0 auto 30px;
+    }
+    .admin-main form .txt {
+        display: block;
+        width: 80%;
+        margin: auto;
+    }
+    .admin-main form .txt input {
+        width: 100%;
+    }
+}
+
+
+
+@media only screen and (max-width: 576px) {
+
+    button.btn {
+        width: 220px;
+        line-height: 1.2;
+    }
+    .burger i {
+        margin-right: 10px;
+        font-size: 28px;
+    }
+    h2 {
+        text-align: center;
+        font-size: 36px;
+        margin-bottom: 10px;
+    }
+    p {
+        text-align: justify;
+        font-size: 16px;
+    }
+    header .logo img {
+        width: 220px;
+    }
+    .menu {
+        top: 68px;
+    }
+    nav .menu li a {
+        padding: 15px 0;
+    }
+    nav .menu > li > a {
+        font-size: 14px;
+    }
+    nav .matches-toggle:before {
+        width: 20px; height: 20px;
+    }
+    nav .menu-matches li a {
+        font-size: 12px;
+    }
+    .main {
+        height: 100vh;
+    }
+    .main h1 {
+        margin-top: 0;
+        font-size: 60px;
+    }
+    .history {
+        /*padding-bottom: 90px;*/
+    }
+    .history .wrap {
+        width: 100%;
+        margin: 0;
+    }
+    .last-win .wrap {
+        width: 100%;
+        margin: 0;
+    }
+    .last-win .pic-wrap {
+        bottom: 100px;
+    }
+    .last-win .pic-wrap img:nth-child(2) {
+        width: 70%;
+    }
+
+    footer {
+        padding: 60px 0 30px;
+    }
+    footer .logo {
+        margin: 10px auto 0;
+    }
+
+
+
+    .calendar-main th, td {
+        padding: 5px 0;
+        font-size: 16px;
+    }
+
+
+
+    .fans-main .item {
+        width: 100%;
+    }
+    .fans-main form {
+        width: 100%;
+    }
+
+
+    .admin-main form .upload {
+        width: 180px; height: 180px;
+    }
+}
+
+
+

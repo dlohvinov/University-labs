@@ -1,0 +1,18 @@
+weight, equipmentType, workType, range, ammo
+7.0, RIFFLE, SCOUTING, 0, 10, 10000
+weight, equipmentType, workType, range, ammo
+4.0, MACHINEGUN, FIRING, 0, 30, 1000
+weight, equipmentType, workType, range, ammo
+0.5, PISTOL, FIRING, 0, 20, 500
+weight, equipmentType, workType, bodyPart, size 
+8.0, FLAK_JACKET, FIRING, 0, Body, 48
+weight, equipmentType, workType, bodyPart, size 
+1.0, SHOES, SCOUTING, 0, Foot, 43
+weight, equipmentType, workType, bodyPart, size 
+1.5, SHOES, ENGENEERING, 0, Foot, 43
+weight, equipmentType, workType, material, color
+0.2, BINOCULARS, SCOUTING, 0, plastic, green
+weight, equipmentType, workType, material, color
+0.2, SHOVEL, ENGENEERING, 0, iron, yellow
+weight, equipmentType, workType, material, color
+0.1, KNIFE, ENGENEERING, 0, steel, grey

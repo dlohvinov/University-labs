@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+CACHE:
+index.html
+error.html
+news.html
+css/main.css
+
+NETWORK:
+#download all unsaved files
+#*
+
+FALLBACK:
+/ /error.html

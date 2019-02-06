@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cc355d0-6a04-47d6-a89a-b0448eef2494" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/lab4-5/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab4-5/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab8/js/localStorageInteraction.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab8/js/localStorageInteraction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab9/js/databaseInteraction.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab9/js/databaseInteraction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs10-11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/labs10-11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs10-11/api/controllers/controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/labs10-11/api/controllers/controller.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="fans.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab8/js/fans.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="3" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab8/js/admin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="databaseInteraction.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab9/js/databaseInteraction.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/labs10-11/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lab4-5/css/main.css" />
+        <option value="$PROJECT_DIR$/lab8/js/localStorageInteraction.js" />
+        <option value="$PROJECT_DIR$/labs10-11/README" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/labs10-11/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/ansi-align/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/arr-union/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/assign-symbols/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/async-each/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/atob/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/base/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/base/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/base/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/base/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/base/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/binary-extensions/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/body-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/boxen/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/braces/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/cache-base/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/capture-stack-trace/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/ci-info/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/class-utils/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/class-utils/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/cli-boxes/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/collection-visit/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/configstore/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/copy-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/cors/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/create-error-class/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/crypto-random-string/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/decode-uri-component/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/define-property/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/define-property/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/dot-prop/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/duplexer/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/duplexer3/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/event-stream/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/expand-brackets/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/expand-brackets/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/expand-brackets/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/express/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/extend-shallow/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/extglob/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/extglob/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/extglob/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/extglob/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/extglob/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/fill-range/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/finalhandler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/flatmap-stream/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/fragment-cache/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/from/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/get-value/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/glob-parent/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/global-dirs/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/got/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/has-values/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/ignore-by-default/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/import-lazy/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/imurmurhash/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-binary-path/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-ci/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-installed-globally/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-npm/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-number/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-obj/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-path-inside/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-plain-object/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-redirect/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-retry-allowed/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/is-windows/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/kareem/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/latest-version/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/lodash.debounce/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/lodash.get/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/lowercase-keys/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/map-cache/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/map-stream/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/map-visit/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/memory-pager/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/mixin-deep/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/mixin-deep/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/mongoose-legacy-pluralize/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/mongoose/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/mpath/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/mquery/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/mquery/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/nanomatch/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/nodemon/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/npm-run-path/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/object-copy/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/object-copy/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/object-copy/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/object-visit/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/object.pick/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/package-json/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/pascalcase/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/path-dirname/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/path-is-inside/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/path-key/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/pause-stream/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/posix-character-classes/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/prepend-http/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/ps-tree/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/pstree.remy/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/regex-not/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/regexp-clone/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/registry-auth-token/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/registry-url/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/resolve-url/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/ret/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/safe-regex/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/saslprep/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/semver-diff/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/set-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/shebang-command/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/shebang-regex/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/snapdragon-node/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/snapdragon-node/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/snapdragon-node/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/snapdragon-node/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/snapdragon-node/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/snapdragon-util/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/snapdragon-util/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/snapdragon/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/snapdragon/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/snapdragon/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/snapdragon/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/source-map-resolve/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/source-map-url/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/sparse-bitfield/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/split-string/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/split/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/static-extend/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/static-extend/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/stream-combiner/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/strip-eof/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/term-size/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/through/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/timed-out/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/to-object-path/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/to-object-path/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/to-regex-range/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/to-regex/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/touch/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/undefsafe/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/undefsafe/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/union-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/union-value/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/union-value/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/unique-string/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/unset-value/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/unset-value/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/unset-value/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/unzip-response/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/upath/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/update-notifier/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/urix/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/url-parse-lax/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/use/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/widest-line/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/write-file-atomic/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/xdg-basedir/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/labs10-11/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="963" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="labs10-11" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/labs/lab8/index.html" />
+    <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/labs/lab9/index.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/labs/lab6/index.html" />
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+      <item itemvalue="JavaScript Debug.index.html (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cc355d0-6a04-47d6-a89a-b0448eef2494" name="Default" comment="" />
+      <created>1544725802307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544725802307</updated>
+      <workItem from="1544725808616" duration="5509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5509000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39862543" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lab1/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="66" column="14" lean-forward="true" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="11" lean-forward="true" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6/cache.manifest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-3/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="1" lean-forward="true" selection-end-line="293" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="11" selection-end-line="83" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-3/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-end-line="140" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-3/js/common.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1164">
+          <caret line="115" column="22" lean-forward="true" selection-start-line="115" selection-start-column="22" selection-end-line="115" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4-5/css/media.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="14" selection-end-line="338" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4-5/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4-5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-end-line="129" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4-5/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4-5/admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-end-line="96" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4-5/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="108" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4-5/fans.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="109" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4-5/match_calendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="12" lean-forward="true" selection-end-line="135" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab4-5/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="55" lean-forward="true" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7/js/add_fans.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-670">
+          <caret selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7/js/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7/js/news.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab8/js/localStorageInteraction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab8/js/news.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab8/js/fans.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="3" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab8/js/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab9/js/databaseInteraction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labs10-11/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
